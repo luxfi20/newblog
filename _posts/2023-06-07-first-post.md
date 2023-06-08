@@ -17,4 +17,4 @@ Demo using the Minima theme:
    - Name the file _config.yml.
    - Add the basic YAML fields required by Jekyll:
    
-   ![jekyll](image/jekyll.png)
+   ![jekyll](/newblog/image/jekyll.png)
