@@ -4,25 +4,17 @@ title: Github Jekyll Project
 date: 2023-06-07
 ---
 
-This is a paragraph in my second post.
-In Markdown, adding an image looks similar to a link. 
+Demo using the Minima theme:
 
-![alt text is white cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
-
-I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png).
-
-Horizontal rule:
-
---------------
-
-> A block quote.
-> Is like this.
-
-A table:
-
-| header | column a | column b |
-| --- | --- | --- |
-| dogs | 3 | 6 |
-| cats | 3 | 6 |
-| muffins | 15 | 30 |
-
+1. Create a new repository:
+   - Click the + sign in the upper right and select New repository.
+   - Give the repository a nice name
+   - Check the Initialize this repository with a README option
+   - Click Add .gitignore, search for jekyll, and select it
+   - Click the Create repository button.
+2. Create a _config.yml file to setup your Jekyll project (check the example config for all the options):
+   - Click the Create new file button on the repository page.
+   - Name the file _config.yml.
+   - Add the basic YAML fields required by Jekyll:
+   
+   ![jekyll](/newblog/image/jekyll.jpg)
