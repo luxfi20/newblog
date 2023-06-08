@@ -4,25 +4,25 @@ title: Github Jekyll Project
 date: 2023-06-07
 ---
 
+This is a paragraph in my second post.
+In Markdown, adding an image looks similar to a link. 
 
-1. Buat repository baru di github
-    - klik tanda + di pojok kanan atas dan pilih new repository
-    - berikan nama repository
-    - ceklist opsi README
-    - klik tombol buat repository
-2. Buat file _config.yml untuk setup Jekyll
-    - klik add file dan pilih create new file
-    - ketik nama file _config.yml
-    - tambahkan bidang yaml dasar yang diperlukan oleh Jekyll
-   
-   "# basic options"
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+![alt text is white cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
 
-# Build settings
-markdown: kramdown
-theme: minima'
+I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png).
+
+Horizontal rule:
+
+--------------
+
+> A block quote.
+> Is like this.
+
+A table:
+
+| header | column a | column b |
+| --- | --- | --- |
+| dogs | 3 | 6 |
+| cats | 3 | 6 |
+| muffins | 15 | 30 |
+
