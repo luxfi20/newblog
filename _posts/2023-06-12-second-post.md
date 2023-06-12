@@ -16,5 +16,5 @@ Linking to a PDF for readers to download :
 
 ![pdf](/newblog/image/pdf.png)
 
-[pdf](/newblog/document/Panduan Konfigurasi Setting Manual Outlook Anywhere (v2).pdf)
+[get the pdf](/newblog/document/Panduan Konfigurasi Setting Manual Outlook Anywhere (v2).pdf) directly.
 
