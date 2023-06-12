@@ -7,7 +7,6 @@ date: 2023-06-12
 ---
 
 
-
 following command on linux : 
 
 ls -l : untuk melihat informasi detail directory / file
