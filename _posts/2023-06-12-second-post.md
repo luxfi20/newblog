@@ -10,4 +10,4 @@ Here's how to add images and PDF to Jekyll's post :
 
 To add images, you can add syntax
 
-![image](/image/image.png)
+![image](/newblog/image/image.png)
