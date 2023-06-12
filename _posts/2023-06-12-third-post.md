@@ -2,7 +2,7 @@
 
 layout: post
 title: Command On Linux
-date: 2023-06-12
+date: 2023-06-12 13:08:39 +02:00
 
 ---
 
